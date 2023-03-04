@@ -1,2 +1,1 @@
-This is the original line. --- Buuger3 added a bug
-
+This is the original line. Bugger1 added a bug.
